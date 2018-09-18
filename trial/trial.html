@@ -1,0 +1,31 @@
+<!doctype html>
+<body>
+
+
+<div style="height:1500px; display:flex; flex-direction:row">
+	<div style="position:fixed; font-family:Helvetica; font-weight:bold">SCROLL UP AND DOWN!</div>
+	<div id='anim_container' style="width:50%; position:fixed;"></div>
+</div>
+
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/4.13.0/bodymovin.js"></script>
+<script>
+
+var container = document.getElementById('anim_container')
+var anim = bodymovin.loadAnimation({
+ container: container,
+ renderer: 'svg',
+ autoplay: false,
+ loop: false,
+ path: 'bodymovin/laptop.json'
+})
+
+window.addEventListener('scroll', function(e){
+
+	if(151+window.scrollY <= 600){
+		anim.playSegments([150+ window.scrollY/2, 151+window.scrollY/2], true)
+	}
+})
+
+</script>
