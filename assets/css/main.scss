@@ -23,6 +23,7 @@ html {
   // convert all headers to serif font
   h1, h2, h3 {
   	font-family: $serif !important;
+    margin-top: 1em;
   }
 
   // flex display for all page content -- esp for mobile
@@ -72,6 +73,10 @@ html {
     font-weight: 100;
     color: #b4b4b5;
     font-style: italics;
+  }
+
+  .sidebar {
+    width: calc(200px - 2em);
   }
 
   @media only screen and (max-width: 600px) {

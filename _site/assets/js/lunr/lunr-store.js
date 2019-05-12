@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Probability Distributions Animated",
+        "excerpt":"Probability distributions or densities represent the relative likelihood that a certain experiment/event would be equal to a certain occurrence. What is the probability of getting a 6 in a dice roll? What is the probability of winning in a game of baccarat? What is the probability of getting a positive...","categories": ["data-viz","dataviz"],
+        "tags": [],
+        "url": "http://localhost:4000/data-viz/statdist",
+        "teaser":null},{
         "title": "Overwatch League Stage One Season One Visualization and Analysis",
         "excerpt":"After an exciting Stage 1, I wanted to do a bit of data analysis and visualization on the different matches in the first 5 weeks of the inaugural season of Overwatch League. Below we analyze and visualize player and team performances, character utilization and factors that affect the outcome of...","categories": ["data-viz","dataviz"],
         "tags": [],

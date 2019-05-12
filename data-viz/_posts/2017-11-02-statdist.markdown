@@ -1,0 +1,38 @@
+---
+layout: single
+title:  "Probability Distributions Animated"
+date:   2017-11-02 00:00:00 +0800
+categories: dataviz
+permalink: /data-viz/statdist
+---
+
+### Probability distributions or densities represent the relative likelihood that a certain experiment/event would be equal to a certain occurrence. 
+
+What is the probability of getting a 6 in a dice roll? What is the probability of winning in a game of baccarat? What is the probability of getting a positive return from a certain stock? Depending on the underlying behavior of these events, different distributions are used to analyze and understand these events. The animations below simply aim to give a quick understanding on four of the more common distributions and their characteristics.
+
+## The Normal / Gaussian Distribution  
+
+**Parameters:** Mean, Standard Deviation | A continuous probability density distribution where observations tend towards a central value. Mean determines the position of the center of the graph, while Standard Deviation determines the spread, or how far from the mean values fall. Other features are that it is bell-shaped and symmetric.
+
+![Normal Dist](https://storage.googleapis.com/magtanggol-github-io/statdist/NormDist.gif)
+
+## The Uniform Distribution  
+
+**Parameters:** Min, Max | A probability distribution where the individual values (if discrete) or intervals (if continuous) have the same probability (ie. rolling any number from a 6 sided dice, drawing a number or suit from a deck of cards). It is symmetric and the probabilities are determined by the maximum and minimum possible values.
+
+![Uniform Dist](https://storage.googleapis.com/magtanggol-github-io/statdist/Uniform_Final.gif)
+
+## The Student's T Distribution  
+
+**Parameters:** v (degrees of freedom)| Similar to the Normal Distribution, the T Distribution is bell-shaped and symmetric as well. However, the tails of the distribution are heavier, which means that the values tend to fall farther away from the mean than a Normal Distribution. Tail heaviness is determined by the degrees of freedom of the distribution, with the T tending towards the normal curve as degrees of freedom become larger. Used in risk analysis as extreme values would give more information than the center.
+
+![T Dist](https://storage.googleapis.com/magtanggol-github-io/statdist/TDist_Final.gif)
+
+## The Binomial Distribution  
+
+**Parameters:** n (trials), p (probability of success) | Given a certain experiment with two possible outcomes (say, flipping a coin), the probability of one outcome successfully happening can be defined by p, and the other outcome is 1-p. This is called a Bernoulli Trial. A binomial distribution is a discrete probability distribution that gives the probability of experiencing k successes in n outcomes (i.e. in 10 coin flips, what is the probability that you can get 5 heads? -- 24.6%, assuming a fair coin.)
+
+![Binomial Dist](https://storage.googleapis.com/magtanggol-github-io/statdist/Binom_Final.gif)
+
+
+
