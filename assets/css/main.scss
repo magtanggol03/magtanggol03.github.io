@@ -15,14 +15,17 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 html {
 
+  // fix navigation font sizes
   .masthead__menu-item {
   	font-size: 14px;
   }
 
+  // convert all headers to serif font
   h1, h2, h3 {
-  	font-family: $serif;
+  	font-family: $serif !important;
   }
 
+  // flex display for all page content -- esp for mobile
   .page__content {
   	margin-top: 24px;
   	display: flex;
@@ -31,6 +34,7 @@ html {
   	justify-content: left;
   }
 
+  // adjust font size for posts paragraphs
   .page__content p {
   	font-size: 0.8em !important; 
   	line-height: 1.2;
@@ -41,6 +45,7 @@ html {
 	 font-size: 0.8em !important;
   }
 
+  // main landing page adjustments
   .main-page {
   	font-size: 14px;
   	line-height: 1;
@@ -52,9 +57,21 @@ html {
 	line-height: 0.2;
   }
 
+  // edit emphasis colors and weight
   strong{
   	font-weight: 900;
   	color: #bc3541; 
+  }
+
+  // for archieve page titles
+  .archive__item-title{
+    font-size: 0.8em;
+  }
+
+  .archive__item-excerpt{
+    font-weight: 100;
+    color: #b4b4b5;
+    font-style: italics;
   }
 
   @media only screen and (max-width: 600px) {
@@ -62,6 +79,10 @@ html {
 	  .splash > .page__content {
 	  	justify-content: center;
 	  }
+
+    .archive__item-title{
+      font-size: 1em;
+    }
 
 	  .main-body {
 		margin-top: 10px;
