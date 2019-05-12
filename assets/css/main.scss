@@ -19,19 +19,8 @@ html {
   	font-size: 14px;
   }
 
-  .main-page {
-  	font-size: 14px;
-  	line-height: 1;
-  	padding-inline-start: 20px;
-  }
-
-  .main-body {
-	margin-top: 20px;
-  }
-
-  h1, h3 {
+  h1, h2, h3 {
   	font-family: $serif;
-  	font-weight: normal;
   }
 
   .page__content {
@@ -40,12 +29,41 @@ html {
   	flex-wrap: wrap;
   	flex-direction: row;
   	justify-content: left;
-  	line-height: 0.2;
+  }
+
+  .page__content p {
+  	font-size: 0.8em !important; 
+  	line-height: 1.2;
+  	font-weight: 100;
+  }
+
+  .page__content li {
+	font-size: 0.7em !important;
+  }
+
+  .main-page {
+  	font-size: 14px;
+  	line-height: 1;
+  	padding-inline-start: 20px;
+  }
+
+  .main-body {
+	margin-top: 20px;
+	line-height: 0.2;
+  }
+
+  strong{
+  	font-weight: 900;
+  	color: #bc3541; 
   }
 
   @media only screen and (max-width: 600px) {
-	  .page__content {
+	  article .splash{
 	    justify-content: center;
+	  }
+
+	  .page__content h3{
+	  	justify-content: left;
 	  }
 
 	  .main-body {
