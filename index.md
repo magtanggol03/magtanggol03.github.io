@@ -2,7 +2,6 @@
 layout: splash
 ---
 
-{:.landing-page}
 
 <img style="float:left; object-fit: cover; border-radius:25%; margin: 10px 25px" width="200" height="200" src="https://storage.googleapis.com/magtanggol-github-io/main-page/logo.png" alt="Profile">
 
@@ -17,4 +16,3 @@ layout: splash
 		<li> Frustrated Designer </li>
 	</ul>
 </div>
-

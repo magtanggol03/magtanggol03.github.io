@@ -38,7 +38,7 @@ html {
   }
 
   .page__content li {
-	font-size: 0.7em !important;
+	 font-size: 0.8em !important;
   }
 
   .main-page {
@@ -58,17 +58,14 @@ html {
   }
 
   @media only screen and (max-width: 600px) {
-	  article .splash{
-	    justify-content: center;
-	  }
-
-	  .page__content h3{
-	  	justify-content: left;
+ 
+	  .splash > .page__content {
+	  	justify-content: center;
 	  }
 
 	  .main-body {
 		margin-top: 10px;
-  	  }
+  	}
   }
 
 

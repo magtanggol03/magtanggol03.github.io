@@ -58,13 +58,13 @@ From the list of topics above, we can then generate the mixture of topics of eac
 
 As you can see from the results above, we did not get the initial groupings that we had expected. 
 
-### The clusters that were easier to interpret were clusters that had a huge probability of discussing a topic that was in-line with the members of the clusters.
+**The clusters that were easier to interpret were clusters that had a huge probability of discussing a topic that was in-line with the members of the clusters.**
 For example, the Family Cluster is made up  primarily of Family members, and the most common topic is Family. The same goes for the Ateneo Cluster, which is made up of students and co-teachers, and the number one topic is Ateneo. We also have the Friend Cluster 1,  which are all made up of friends from various points in time, but the topics are more or less similar -- capturing Life Discussions where most of our talks would be catching up and updating each other on life.
 
-### Then, we have clusters have clear topics, but mixed members.
+**Then, we have clusters have clear topics, but mixed members.**
 The Data Cluster captured all three data friends, but is made up of more than that. Looking at the specific persons behind the titles, these are friends that have, at one point or another, expressed interest in the topic as well. Interestingly, the co-teachers and students included in this clusters were the people I went with to a Data Science boot camp in 2017. For the Hong Kong Cluster, these are basically similar to Friend Cluster 1, with Life Discussions being a big part topic, but mixed in with Hong Kong specific conversations. 
 
-### Lastly, we have hard to interpret clusters.
+**Lastly, we have hard to interpret clusters.**
 Cluster 2, for example, is made of a mixed members, with the majority of topics being Ateneo and Life Discussion, suggesting an intersection of Ateneo connections and friends, in other words co-teachers or students who have become similar to friends. While this may be possible for the students and co-teachers in this group, we also have work friends and college friends in the same group, which, by looking at our conversations, are non-Ateneo friends who I talk to about teaching in Ateneo. Finally, Cluster 6 and 7 are outliers, where Cluster 6 includes my girlfriend, who I talk to everyday and makes up more than half of all messages, which makes sense why Daily Life is a popular topic.  Cluster 7 contains a one friend, made up completely of the undefined topic, which makes this specific cluster to interpret even after looking at the conversations. 
 
 ## Principal Component Analysis
@@ -89,7 +89,7 @@ Immediately we can see the strong differentiation between three different contac
 
 We see that the Hong Kong, Family, Friend Cluster 2 and 3 are all very similar, occupying the same area. This is understandable as majority of my conversations with my family would have been updates on how life in Hong Kong has been. 
 
-### We see that the while clustering is good to get an aggregate picture, PCA is good in giving us insights into specific individuals. 
+**We see that the while clustering is good to get an aggregate picture, PCA is good in giving us insights into specific individuals.** 
 
 For example, we see that there are some friends under the Hong Kong cluster that are very similar and close to the friends cluster like HK Friend 2 and College Friend 13, who are friends I made prior to going to HK but have talked to a lot about Hong Kong. Another example is that Family 4 is a sibling that is taking her masters in Ateneo as well, and we have discussed previously about some of her requirements and topics in class. Student 3 is a student that has reached out a few times after my period teaching in Ateneo to ask for advice, and Co-Teacher 7 was my teacher and have reached out to multiple times regarding advice on different things. We also see Co-Teacher 1, Co-Teacher 9 and Student 8, all part of the Data Cluster, but are closer to the Ateneo cluster than the rest of the cluster. As mentioned above, these were teachers and students with who I attended a Data Science boot camp with.
 

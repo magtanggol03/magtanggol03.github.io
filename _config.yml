@@ -40,9 +40,9 @@ defaults:
       author_profile: true
 
 author:
-  name: "Your Name"
+  name: "Ram De Guzman"
   avatar: "https://storage.googleapis.com/magtanggol-github-io/main-page/logo.png"
-  bio: "I am an amazing person."
+  bio: "Data Enthusiast. Frustrated Designer. Shitty Developer."
   location: "Somewhere"
   links:
     - label: "Made Mistakes"
