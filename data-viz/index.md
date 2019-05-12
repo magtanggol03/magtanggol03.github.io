@@ -16,6 +16,13 @@ feature_row:
     url: "/data-viz/owl-s1s1"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/statdist/Cover.gif
+    alt: "Visualizing Probability Distributions"
+    title: "Visualizing Probability Distributions"
+    excerpt: "Using animations to explain probability distributions."
+    url: "/data-viz/statdist"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
