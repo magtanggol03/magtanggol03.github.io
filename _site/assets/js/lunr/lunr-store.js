@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Isometric Japan",
+        "excerpt":"A series of isometric &amp; vectorized versions of my favorite landmarks in our recent Japan trip. Included actual pictures that I used as guides. Osaka Castle Dotonbori / Glico Man Fushimi Inari Shrine / Vermillion Gates RAMEN ICHIRAN (MY FAVORITE) Wasn’t really able to see the inside, but it would...","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/japan-iso",
+        "teaser":null},{
         "title": "Game of Thrones Sigils Vol. 1",
         "excerpt":"   Flat icon versions of the sigils of the great houses of Westeros.             ","categories": ["illustration"],
         "tags": [],

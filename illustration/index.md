@@ -9,6 +9,13 @@ feature_row:
     url: "/animation/got-sigils-v1"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/japan-iso/cover.png
+    alt: "Isometric Japan"
+    title: "Isometric Japan"
+    excerpt: "Isometric renditions of some Japanese landmarks."
+    url: "/animation/japan-iso"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
