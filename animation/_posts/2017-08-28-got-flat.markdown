@@ -1,0 +1,44 @@
+---
+layout: single
+title:  "Game of Thrones Sigils Vol. 2"
+date:   2017-08-28 00:00:00 +0800
+categories: animation
+permalink: /animation/got-sigils-v2
+---
+
+Created minimalist versions of the sigils of some of the *great houses of Westeros* as well as simple animations of it. Everything was designed on Adobe Illustrator and animated on Adobe After Effects.
+
+
+A huge part of this personal project was mainly inspired by [Darren Crescenzi's](http://www.dcrsnz.com/westeros/) own minimalist versions of the Westerosi House Sigils, which surpasses my own project in both scale and execution. If you like my version, then his will just blow your mind. 
+
+*Not all great houses were includes (Tully, Arryn) since this project was initially done to label game pieces on the GOT gameboard which doesn't include the two houses, but does include Greyjoys and added the Targaryens because dragons.*
+
+**Apologies for any wrong colors in any of the sigils.**
+
+![Baratheon Banner](https://storage.googleapis.com/magtanggol-github-io/got-v2/Baratheon_Banner.png)
+![Baratheon Shield](https://storage.googleapis.com/magtanggol-github-io/got-v2/Baratheon_Shield.png)
+![Baratheon Animation](https://storage.googleapis.com/magtanggol-github-io/got-v2/Baratheon.gif)
+
+![Stark Banner](https://storage.googleapis.com/magtanggol-github-io/got-v2/Stark_Banner.png)
+![Stark Shield](https://storage.googleapis.com/magtanggol-github-io/got-v2/Stark_Shield.png)
+![Stark Animation](https://storage.googleapis.com/magtanggol-github-io/got-v2/Stark.gif)
+
+![Targaryen Banner](https://storage.googleapis.com/magtanggol-github-io/got-v2/Targaryen_Banner.png)
+![Targaryen Shield](https://storage.googleapis.com/magtanggol-github-io/got-v2/Targaryen_Shield.png)
+![Targaryen Animation](https://storage.googleapis.com/magtanggol-github-io/got-v2/Targaryen.gif)
+
+![Lannister Banner](https://storage.googleapis.com/magtanggol-github-io/got-v2/Lannister_Banner.png)
+![Lannister Shield](https://storage.googleapis.com/magtanggol-github-io/got-v2/Lannister_Shield.png)
+![Lannister Animation](https://storage.googleapis.com/magtanggol-github-io/got-v2/Lannister.gif)
+
+![Martell Banner](https://storage.googleapis.com/magtanggol-github-io/got-v2/Martell_Banner.png)
+![Martell Shield](https://storage.googleapis.com/magtanggol-github-io/got-v2/Martell_Shield.png)
+![Martell Animation](https://storage.googleapis.com/magtanggol-github-io/got-v2/Martell.gif)
+
+![Tyrell Banner](https://storage.googleapis.com/magtanggol-github-io/got-v2/Tyrell_Banner.png)
+![Tyrell Shield](https://storage.googleapis.com/magtanggol-github-io/got-v2/Tyrell_Shield.png)
+![Tyrell Animation](https://storage.googleapis.com/magtanggol-github-io/got-v2/Tyrell.gif)
+
+![Greyjoy Banner](https://storage.googleapis.com/magtanggol-github-io/got-v2/Greyjoy_Banner.png)
+![Greyjoy Shield](https://storage.googleapis.com/magtanggol-github-io/got-v2/Greyjoy_Shield.png)
+![Greyjoy Animation](https://storage.googleapis.com/magtanggol-github-io/got-v2/Greyjoy.gif)

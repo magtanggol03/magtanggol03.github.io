@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Game of Thrones Sigils Vol. 2",
+        "excerpt":"Created minimalist versions of the sigils of some of the great houses of Westeros as well as simple animations of it. Everything was designed on Adobe Illustrator and animated on Adobe After Effects. A huge part of this personal project was mainly inspired by Darren Crescenzi’s own minimalist versions of...","categories": ["animation"],
+        "tags": [],
+        "url": "http://localhost:4000/animation/got-sigils-v2",
+        "teaser":null},{
         "title": "Probability Distributions Animated",
         "excerpt":"Probability distributions or densities represent the relative likelihood that a certain experiment/event would be equal to a certain occurrence. What is the probability of getting a 6 in a dice roll? What is the probability of winning in a game of baccarat? What is the probability of getting a positive...","categories": ["data-viz","dataviz"],
         "tags": [],
