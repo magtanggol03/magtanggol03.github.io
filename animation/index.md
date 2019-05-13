@@ -23,6 +23,13 @@ feature_row:
     url: "animation/office-icons"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/usa-animations/LA_15s.gif
+    alt: "USA Motion Graphics"
+    title: "USA Motion Graphics"
+    excerpt: "Motion graphics inspired by a US trip"
+    url: "animation/usa-motion"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}

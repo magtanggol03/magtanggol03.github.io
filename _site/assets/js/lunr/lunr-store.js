@@ -1,4 +1,9 @@
 var store = [{
+        "title": "USA Animations",
+        "excerpt":"Motion graphics inspired by my recent vacation to four different areas in America: San Francisco, Los Angeles, Washington DC and New York City. Shapes and vector art done in Adobe Illustrator. Animation done in Adobe After Effects. San Francisco Golden Gate Bridge, Cable Cars, Painted Ladies Los Angeles Six Flags,...","categories": ["animation"],
+        "tags": [],
+        "url": "http://localhost:4000/animation/usa-motion",
+        "teaser":null},{
         "title": "Office Icons",
         "excerpt":"                                                            Simple animations on icons to practice After Effects             Mail     Copier Machine     Laptop     Phone     Briefcase    ","categories": ["animation"],
         "tags": [],
