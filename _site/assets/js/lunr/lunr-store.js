@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Office Icons",
+        "excerpt":"                                                            Simple animations on icons to practice After Effects             Mail     Copier Machine     Laptop     Phone     Briefcase    ","categories": ["animation"],
+        "tags": [],
+        "url": "http://localhost:4000/animation/office-icons",
+        "teaser":null},{
         "title": "Game of Thrones Sigils Vol. 2",
         "excerpt":"Created minimalist versions of the sigils of some of the great houses of Westeros as well as simple animations of it. Everything was designed on Adobe Illustrator and animated on Adobe After Effects. A huge part of this personal project was mainly inspired by Darren Crescenzi’s own minimalist versions of...","categories": ["animation"],
         "tags": [],

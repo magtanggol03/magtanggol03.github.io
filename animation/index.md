@@ -16,6 +16,13 @@ feature_row:
     url: "/animation/got-sigils-v2"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/office/cover.gif
+    alt: "Office Icons"
+    title: "Office Icons"
+    excerpt: "Animation of everyday office items."
+    url: "animation/office-icons"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
