@@ -1,4 +1,9 @@
 var store = [{
+        "title": "Game of Thrones Sigils Vol. 1",
+        "excerpt":"   Flat icon versions of the sigils of the great houses of Westeros.             ","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/got-sigils-v1",
+        "teaser":null},{
         "title": "USA Animations",
         "excerpt":"Motion graphics inspired by my recent vacation to four different areas in America: San Francisco, Los Angeles, Washington DC and New York City. Shapes and vector art done in Adobe Illustrator. Animation done in Adobe After Effects. San Francisco Golden Gate Bridge, Cable Cars, Painted Ladies Los Angeles Six Flags,...","categories": ["animation"],
         "tags": [],
@@ -33,9 +38,4 @@ var store = [{
         "excerpt":"After discovering that Facebook personal data is easily downloadable, I wanted to see if there were interesting patterns in the relationships that I had built, and to see the common threads that connect me to my different FB friends. So I decided to do a bit of topic modelling to...","categories": ["data-viz","dataviz"],
         "tags": [],
         "url": "http://localhost:4000/data-viz/decoding-fb-friends",
-        "teaser":null},{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["illustration","jekyll","update"],
-        "tags": [],
-        "url": "http://localhost:4000/hello/",
         "teaser":null}]

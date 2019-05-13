@@ -1252,6 +1252,7 @@ html .main-body { margin-top: 20px; line-height: 0.2; }
 html strong { font-weight: 900; color: #bc3541; }
 html .archive__item-title { font-size: 0.8em; }
 html .archive__item-excerpt { font-weight: 100; color: #b4b4b5; font-style: italics; }
+html .site-title { color: #bd3542; }
 html .sidebar { width: calc(200px - 2em); }
 html td, html th { border: 0px solid grey; }
 @media only screen and (max-width: 1023px) { html .splash > .page__content > .page__content { justify-content: center; }
