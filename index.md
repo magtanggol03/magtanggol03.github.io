@@ -2,9 +2,8 @@
 layout: splash
 ---
 
-
-<img style="float:left; object-fit: cover; border-radius:25%; margin: 10px 25px" width="200" height="200" src="https://storage.googleapis.com/magtanggol-github-io/main-page/logo.png" alt="Profile">
-
+<div class="page__content">
+<img class="main-logo" style="float:left; object-fit: cover; border-radius:25%; margin: 10px 25px" width="200" height="200" src="https://storage.googleapis.com/magtanggol-github-io/main-page/logo.png" alt="Profile">
 <div class='main-body'>
 	<h1> Ram De Guzman </h1>
 	<h3> Data + Animation </h3>
@@ -15,4 +14,5 @@ layout: splash
 		<li> Data Enthusiast </li>
 		<li> Frustrated Designer </li>
 	</ul>
+</div>
 </div>

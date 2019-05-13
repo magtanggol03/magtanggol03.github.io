@@ -11,9 +11,9 @@ permalink: /animation/office-icons
 |![Phone](https://storage.googleapis.com/magtanggol-github-io/office/PHONE.gif)|![Briefcase](https://storage.googleapis.com/magtanggol-github-io/office/BRIEFCASE.gif)| **Simple animations on icons to practice After Effects** |
 
 ------
- 
-## Mail
-![Mail](https://storage.googleapis.com/magtanggol-github-io/office/BRIEFCASE.gif)
+
+## Mail 
+![Mail](https://storage.googleapis.com/magtanggol-github-io/office/MAIL.gif)
 
 ## Copier Machine
 ![Printer](https://storage.googleapis.com/magtanggol-github-io/office/PRINTER.gif)

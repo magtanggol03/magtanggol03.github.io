@@ -1245,6 +1245,7 @@ html .masthead__menu-item { font-size: 14px; }
 html h1, html h2, html h3 { font-family: "Roboto Condensed", serif !important; margin-top: 1em; }
 html .page__content { margin-top: 24px; display: flex; flex-wrap: wrap; flex-direction: row; justify-content: left; }
 html .page__content p { font-size: 0.8em !important; line-height: 1.2; font-weight: 100; width: 100%; }
+html .main-logo { height: 200px !important; }
 html .page__content li { font-size: 0.8em !important; }
 html .main-page { font-size: 14px; line-height: 1; padding-inline-start: 20px; }
 html .main-body { margin-top: 20px; line-height: 0.2; }
@@ -1253,6 +1254,7 @@ html .archive__item-title { font-size: 0.8em; }
 html .archive__item-excerpt { font-weight: 100; color: #b4b4b5; font-style: italics; }
 html .sidebar { width: calc(200px - 2em); }
 html td, html th { border: 0px solid grey; }
-@media only screen and (max-width: 600px) { html .splash > .page__content { justify-content: center; }
+@media only screen and (max-width: 1023px) { html .splash > .page__content > .page__content { justify-content: center; }
   html .archive__item-title { font-size: 1em; }
-  html .main-body { margin-top: 10px; } }
+  html .main-body { margin-top: 10px; }
+  html .sidebar { width: 100%; } }
