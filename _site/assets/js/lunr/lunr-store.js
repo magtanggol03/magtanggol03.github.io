@@ -34,6 +34,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/animation/starwars-dump",
         "teaser":null},{
+        "title": "52 Weeks of Thinking Machines",
+        "excerpt":"Migrated my blog from Adobe Portfolio to Github + Jekyll, and wanted to practice custom visualization using D3! And given that I just turned one year in Thinking Machines (and should be working on my yearly evaluation instead of a blog), thought it might interesting to do a scrollytelling based...","categories": ["animation"],
+        "tags": [],
+        "url": "http://localhost:4000/animation/52-weeks-tm",
+        "teaser":null},{
         "title": "Overwatch League Stage One Season One Visualization and Analysis",
         "excerpt":"After an exciting Stage 1, I wanted to do a bit of data analysis and visualization on the different matches in the first 5 weeks of the inaugural season of Overwatch League. Below we analyze and visualize player and team performances, character utilization and factors that affect the outcome of...","categories": ["data-viz","dataviz"],
         "tags": [],
