@@ -105,7 +105,7 @@ img{
 			<div class='step' data-step='2'>To <br><span class='emphasis'>July 07, 2019</span></div>
 			<div class='step' data-step='3'> Representing each week by the <span class='emphasis'>most dominant project</span> worked on for that week...
 			<hr>
-			<img src='../assets/images/legend-1.svg' width='60%'/>
+			<img src='../assets/images/legend-1.svg' width='80%'/>
 			</div>
 			<div class='step' data-step='4'>It's clear that two projects have really shaped my year: 
 				<br><br>
