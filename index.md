@@ -7,7 +7,6 @@ layout: splash
 <div class='main-body'>
 	<h1> Ram De Guzman </h1>
 	<h3> Data + Animation </h3>
-
 	<ul class="main-page">
 		<li> Geospatial Solutions Lead at Thinking Machines </li>
 		<li> Lecturer at the Ateneo De Manila University </li>

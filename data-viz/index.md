@@ -2,6 +2,13 @@
 title: "Data Visualization Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/tm-52/cover.gif
+    alt: "52 Weeks in Thinking Machines"
+    title: "52 Weeks in Thinking Machines"
+    excerpt: "Scrolly-telling on my daily activties using D3."
+    url: "/data-viz/52-weeks-tm"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/fb/Cover_Final.gif
     alt: "Decoding Facebook Relationships"
     title: "Decoding Facebook Relationships"
