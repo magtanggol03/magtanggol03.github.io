@@ -12,7 +12,7 @@ feature_row:
   - image_path: https://storage.googleapis.com/magtanggol-github-io/fb/Cover_Final.gif
     alt: "Decoding Facebook Relationships"
     title: "Decoding Facebook Relationships"
-    excerpt: "Discovering different friend groups through text analytics"
+    excerpt: "Discovering different friend groups through text analytics."
     url: "/data-viz/decoding-fb-friends"
     btn_label: "Read More"
     btn_class: "btn--inverse"

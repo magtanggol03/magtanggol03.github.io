@@ -48,4 +48,9 @@ var store = [{
         "excerpt":"Migrated my blog from Adobe Portfolio to Github + Jekyll, and wanted to practice custom visualization using D3! And given that I just turned one year in Thinking Machines (and should be working on my yearly evaluation instead of a blog), thought it might interesting to do a scrollytelling based...","categories": ["data-viz"],
         "tags": [],
         "url": "http://localhost:4000/data-viz/52-weeks-tm",
+        "teaser":null},{
+        "title": "What does this image sound like?",
+        "excerpt":"       \t \t \t What does this image sound like?       ","categories": ["data-viz"],
+        "tags": [],
+        "url": "http://localhost:4000/data-viz/img-sounds-like",
         "teaser":null}]
