@@ -50,7 +50,7 @@ var store = [{
         "url": "http://localhost:4000/data-viz/52-weeks-tm",
         "teaser":null},{
         "title": "What does this image sound like?",
-        "excerpt":"       \t \t \t What does this image sound like?       ","categories": ["data-viz"],
+        "excerpt":"       \t \t \t What does this image sound like?         ","categories": ["data-viz"],
         "tags": [],
         "url": "http://localhost:4000/data-viz/img-sounds-like",
         "teaser":null}]
