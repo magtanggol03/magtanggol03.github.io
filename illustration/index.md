@@ -6,7 +6,7 @@ feature_row:
     alt: "PH Population Relief Map"
     title: "PH Population Relief Map"
     excerpt: "3D Rendering of the Philippines with Population as elevation."
-    url: "/illustration/ph-relief-map"
+    url: "/illustration/ph-pop-relief-map"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/got-v1/cover.svg
