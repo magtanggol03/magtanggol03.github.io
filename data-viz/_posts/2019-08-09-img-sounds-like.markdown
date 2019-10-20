@@ -17,14 +17,17 @@ permalink: /data-viz/img-sounds-like
 </style>
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&display=swap" rel="stylesheet">
+
 <main>
 	<input type='file' onchange="readFile(this)" />
 	<img id="image-file" src="#" alt="your image" />
 	<button id="play-music" onClick="callMe()"> What does this image sound like? </button>
 </main>
 <script src="../assets/js/img-sounds-like.js"></script>
+<script type="module" src="../assets/js/crunker.js"></script>
 <script>
-
+	const audio = new Crunker();
+	
 	function readFile(input){
 		if (input.files && input.files[0]) {
             var reader = new FileReader();
@@ -100,7 +103,6 @@ permalink: /data-viz/img-sounds-like
 	snd4.appendChild(src4);
 
 	function playMusic(idx){
-		snd4.play()
 
 		if(img_array['red'][idx] %3 == 0){
 			snd1.play(); 
@@ -113,21 +115,41 @@ permalink: /data-viz/img-sounds-like
 		} 
 	}
 
+	play = {'snare-1':[], 'snare-2':[], 'key-1':[], 'key-2':[], 'key-3':[], 'hat':[], 'tom':[]}
+	function maskMusic(){
+	    for (let i = 0; i < 100; i++) {
+			img_array['red'][i] %3 == 0 ? play['snare-1'].push(1) : play['snare-1'].push(0)
+			img_array['green'][i] %4 == 0 ? play['snare-2'].push(1) : play['snare-2'].push(0)
+			img_array['blue'][i] %5 == 0 ? play['key-1'].push(1) : play['key-1'].push(0)
+			img_array['red'][i] %4 == 0 ? play['key-2'].push(1) : play['key-2'].push(0)
+			img_array['green'][i] %5 == 0 ? play['key-3'].push(1) : play['key-3'].push(0)
+			img_array['blue'][i] %6 == 0 ? play['hat'].push(1) : play['hat'].push(0)
+			img_array['blue'][i] %3 == 0 ? play['tom'].push(1) : play['tom'].push(0)
+	    }
+	}
 	//img_array = readImg()
-	function allMusic(){
+	/*function allMusic(){
 
 		(async function loop() {
 		    for (let i = 0; i < 100; i++) {
-		        await new Promise(resolve => setTimeout(resolve, 200));
+		        await new Promise(resolve => setTimeout(resolve, 50));
 		        playMusic(i);
 		    }
 		})();		 
-		}
+		}*/
 
+	function makeMusic(instrument, file){
+
+		files = instrument.map(i=> i==1 ? file : '../assets/data/drums/blank.wav')
+		console.log(files)
+	}
 	function callMe(){
 		img_array = readImg()
-		console.log(img_array)
-		allMusic()
+		maskMusic()
+		console.log(play)
+		makeMusic(play['snare-1'], '../assets/data/drums/snare-1.wav')
+		//console.log(img_array)
+		//allMusic()
 	}
 
 	const sleep = (milliseconds) => {
