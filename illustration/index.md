@@ -2,6 +2,13 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/ph-relief-map/cover.svg
+    alt: "PH Population Relief Map"
+    title: "PH Population Relief Map"
+    excerpt: "3D Rendering of the Philippines with Population as elevation."
+    url: "/illustration/ph-relief-map"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/got-v1/cover.svg
     alt: "Game of Thrones Sigils Vol. 1"
     title: "Game of Thrones Sigils Vol. 1"
