@@ -2,6 +2,13 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/hanamura/hanamura-cover.png
+    alt: "Isometric Hanamura"
+    title: "Isometric Hanamura"
+    excerpt: "3D Isometric View of Hanamura Castle."
+    url: "/illustration/hanamura"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/got-v1/cover.svg
     alt: "Game of Thrones Sigils Vol. 1"
     title: "Game of Thrones Sigils Vol. 1"

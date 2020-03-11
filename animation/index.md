@@ -2,6 +2,13 @@
 title: "Animation Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/hanamura/health-pack.gif
+    alt: "Isometric Hanamura"
+    title: "Isometric Hanamura"
+    excerpt: "3D Isometric View of Hanamura Castle."
+    url: "/illustration/hanamura"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/starwars/TieFighter.gif
     alt: "Star Wars Animation Dump"
     title: "Star Wars Animation Dump"

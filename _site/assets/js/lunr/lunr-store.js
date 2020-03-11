@@ -53,4 +53,14 @@ var store = [{
         "excerpt":"       \t \t \t What does this image sound like?         ","categories": ["data-viz"],
         "tags": [],
         "url": "http://localhost:4000/data-viz/img-sounds-like",
+        "teaser":null},{
+        "title": "PH Relief Map",
+        "excerpt":"Used the High Resolution Settlement Layer for the Philippines to generate a relief map where the population is represented by the elevation.      ","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/ph-pop-relief-map",
+        "teaser":null},{
+        "title": "Isometric Hanamura",
+        "excerpt":"First Blender project! Wanted to do an isometric, minimalist version of Hanamura Point B similar to this, but realized might be fun to try making a 3D scene. Character 3D models not mine, only modification was to simplify the models and added the color/materials. Both models can be found here:...","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/hanamura",
         "teaser":null}]

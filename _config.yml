@@ -53,6 +53,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/instagram_dg"
 
+github: [metadata]
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

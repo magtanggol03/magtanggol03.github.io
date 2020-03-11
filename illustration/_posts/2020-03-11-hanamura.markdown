@@ -1,0 +1,31 @@
+---
+layout: single
+title:  "Isometric Hanamura"
+date:   2020-03-11 00:00:00 +0800
+categories: illustration
+permalink: /illustration/hanamura
+---
+
+**First Blender project!** Wanted to do an isometric, minimalist version of Hanamura Point B similar to [this](https://magtanggol03.github.io/illustration/japan-iso), but realized might be fun to try making a 3D scene. 
+
+![Main](https://storage.googleapis.com/magtanggol-github-io/hanamura/zoom-out.png)
+![Side One](https://storage.googleapis.com/magtanggol-github-io/hanamura/zoom-out-side.png)
+![Side Two](https://storage.googleapis.com/magtanggol-github-io/hanamura/zoom-out-side-two.png)
+
+**Character 3D models not mine**, only modification was to simplify the models and added the color/materials. Both models can be found here: [Reinhardt by RealityMill](https://www.thingiverse.com/thing:3430911), [Brigitte by TheTNR](https://www.thingiverse.com/thing:2883075).
+
+![Off Angle](https://storage.googleapis.com/magtanggol-github-io/hanamura/side-one.png)
+
+Was going to use Genji vs Hanzo but Reinhardt was easier to color haha.
+
+![Versus](https://storage.googleapis.com/magtanggol-github-io/hanamura/vs-1-dof.png)
+
+![Backview](https://storage.googleapis.com/magtanggol-github-io/hanamura/backview-dof.png)
+
+Tried to do some very basic animation, but nothing impressive. Hoping to learn more moving forward!
+
+<img src="https://storage.googleapis.com/magtanggol-github-io/hanamura/health-pack.gif" alt="drawing" width="400"/>
+
+<img src="https://storage.googleapis.com/magtanggol-github-io/hanamura/reinhardt.gif" alt="drawing" width="400"/>
+
+<img src="https://storage.googleapis.com/magtanggol-github-io/hanamura/brig.gif" alt="drawing" width="400"/>
