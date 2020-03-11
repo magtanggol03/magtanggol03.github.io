@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Isometric Hanamura"
+title:  "3D Hanamura"
 date:   2020-03-11 00:00:00 +0800
 categories: illustration
 permalink: /illustration/hanamura
 ---
 
-**First Blender project!** Wanted to do an isometric, minimalist version of Hanamura Point B similar to [this](https://magtanggol03.github.io/illustration/japan-iso), but realized might be fun to try making a 3D scene. 
+**First Blender project!** Wanted to do an isometric, minimalist version of Hanamura Point B similar to [this](https://magtanggol03.github.io/illustration/japan-iso), but realized might be fun to try making a 3D scene instead. 
 
 ![Main](https://storage.googleapis.com/magtanggol-github-io/hanamura/zoom-out.png)
 ![Side One](https://storage.googleapis.com/magtanggol-github-io/hanamura/zoom-out-side.png)

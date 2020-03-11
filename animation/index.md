@@ -3,9 +3,9 @@ title: "Animation Projects"
 layout: splash
 feature_row:
   - image_path: https://storage.googleapis.com/magtanggol-github-io/hanamura/health-pack.gif
-    alt: "Isometric Hanamura"
-    title: "Isometric Hanamura"
-    excerpt: "3D Isometric View of Hanamura Castle."
+    alt: "3D Hanamura"
+    title: "3D Hanamura"
+    excerpt: "3D Scene of Hanamura Castle."
     url: "/illustration/hanamura"
     btn_label: "Read More"
     btn_class: "btn--inverse"
