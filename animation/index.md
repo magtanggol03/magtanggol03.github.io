@@ -6,7 +6,7 @@ feature_row:
     alt: "Low Poly Cloud Animation"
     title: "Low Poly Cloud Animation"
     excerpt: "Learning rigging and animation while waiting for the remake"
-    url: "/illustration/cloud-low-poly"
+    url: "/animation/cloud-low-poly"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/hanamura/health-pack.gif
