@@ -22,6 +22,6 @@ Trying to learn rigging and animation while waiting for the FF7 remake!
 <img src="https://storage.googleapis.com/magtanggol-github-io/cloud-low-poly/cloud-wait-right.gif" alt="drawing" width="150"/>
 
 
-**Attack**  
+**Attack!**  
 <img src="https://storage.googleapis.com/magtanggol-github-io/cloud-low-poly/cloud-attack-2.gif" alt="drawing" width="500"/>
 
