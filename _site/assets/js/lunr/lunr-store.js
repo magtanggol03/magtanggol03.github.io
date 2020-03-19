@@ -34,6 +34,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/animation/starwars-dump",
         "teaser":null},{
+        "title": "Cloud Low Poly Animation",
+        "excerpt":"Trying to learn rigging and animation while waiting for the FF7 remake!   Tunununun-tun-tun-tun-tunun!     Get Big Bro’s Wig!     Attack, Magic, Item?       Attack     ","categories": ["animation"],
+        "tags": [],
+        "url": "http://localhost:4000/animation/cloud-low-poly",
+        "teaser":null},{
         "title": "Overwatch League Stage One Season One Visualization and Analysis",
         "excerpt":"After an exciting Stage 1, I wanted to do a bit of data analysis and visualization on the different matches in the first 5 weeks of the inaugural season of Overwatch League. Below we analyze and visualize player and team performances, character utilization and factors that affect the outcome of...","categories": ["data-viz","dataviz"],
         "tags": [],
@@ -59,8 +64,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/illustration/ph-pop-relief-map",
         "teaser":null},{
-        "title": "Isometric Hanamura",
-        "excerpt":"First Blender project! Wanted to do an isometric, minimalist version of Hanamura Point B similar to this, but realized might be fun to try making a 3D scene. Character 3D models not mine, only modification was to simplify the models and added the color/materials. Both models can be found here:...","categories": ["illustration"],
+        "title": "3D Hanamura",
+        "excerpt":"First Blender project! Wanted to do an isometric, minimalist version of Hanamura Point B similar to this, but realized might be fun to try making a 3D scene instead. Character 3D models not mine, only modification was to simplify the models and added the color/materials. Both models can be found...","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/hanamura",
         "teaser":null}]

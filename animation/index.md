@@ -2,6 +2,13 @@
 title: "Animation Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/cloud-low-poly/cloud-wait-all.gif
+    alt: "Low Poly Cloud Animation"
+    title: "Low Poly Cloud Animation"
+    excerpt: "Learning rigging and animation while waiting for the remake"
+    url: "/illustration/cloud-low-poly"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/hanamura/health-pack.gif
     alt: "3D Hanamura"
     title: "3D Hanamura"
