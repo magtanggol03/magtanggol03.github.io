@@ -35,7 +35,7 @@ var store = [{
         "url": "http://localhost:4000/animation/starwars-dump",
         "teaser":null},{
         "title": "Cloud Low Poly Animation",
-        "excerpt":"Trying to learn rigging and animation while waiting for the FF7 remake!   Tunununun-tun-tun-tun-tunun!     Get Big Bro’s Wig!     Attack, Magic, Item?       Attack!     ","categories": ["animation"],
+        "excerpt":"Trying to learn rigging and animation while waiting for the FF7 remake! Tunununun-tun-tun-tun-tunun! Get Big Bro’s Wig! Attack, Magic, Item? Attack! 3D Print Tried 3D Printing out a single pose. Not the best result – lots of stray filament, broke a bunch of pieces as I was cleaning it, could...","categories": ["animation"],
         "tags": [],
         "url": "http://localhost:4000/animation/cloud-low-poly",
         "teaser":null},{
