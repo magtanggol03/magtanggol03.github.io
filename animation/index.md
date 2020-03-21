@@ -2,7 +2,7 @@
 title: "Animation Projects"
 layout: splash
 feature_row:
-  - image_path: https://storage.googleapis.com/magtanggol-github-io/cloud-low-poly/cloud-wait-all.gif
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/cloud-low-poly/cloud-cover.gif
     alt: "Low Poly Cloud Animation"
     title: "Low Poly Cloud Animation"
     excerpt: "Learning rigging and animation while waiting for the remake"

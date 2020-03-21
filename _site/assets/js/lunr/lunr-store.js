@@ -68,4 +68,9 @@ var store = [{
         "excerpt":"First Blender project! Wanted to do an isometric, minimalist version of Hanamura Point B similar to this, but realized might be fun to try making a 3D scene instead. Character 3D models not mine, only modification was to simplify the models and added the color/materials. Both models can be found...","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/hanamura",
+        "teaser":null},{
+        "title": "Millennium Falcon Model Kit Build",
+        "excerpt":"Not really an illustration. Bought a Millennium Falcon Model Kit over two years ago and I finally got around to building it!            Behind the scenes          ","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/millennium-falcon",
         "teaser":null}]

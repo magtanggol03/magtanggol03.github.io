@@ -2,6 +2,13 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/millennium-falcon/mf-cover.png
+    alt: "Millennium Falcon Build"
+    title: "Millennium Falcon Model Kit Build"
+    excerpt: "Assembly and weathering of a Millennium Falcon Model Kit"
+    url: "/illustration/millennium-falcon"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/hanamura/hanamura-cover.png
     alt: "3D Hanamura"
     title: "3D Hanamura"
