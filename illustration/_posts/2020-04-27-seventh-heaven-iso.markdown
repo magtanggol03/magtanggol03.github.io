@@ -16,5 +16,5 @@ Still on an FF7 Remake hangover, decided to practice 3D illustration by creating
 ![Secret Basement](https://storage.googleapis.com/magtanggol-github-io/seventh-heaven-iso/seventh-heaven-B1-v3.jpg)  
 [Reference Link](https://vignette.wikia.nocookie.net/finalfantasy/images/8/84/7thHeaven-ffvii-hideout.png/revision/latest?cb=20120328130514)
 
-### Combined
+### Elevator GIF!
 ![GIF](https://storage.googleapis.com/magtanggol-github-io/seventh-heaven-iso/final-gif.gif)  
