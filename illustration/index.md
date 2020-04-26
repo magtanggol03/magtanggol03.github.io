@@ -2,6 +2,13 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/seventh-heaven-iso/cover.png
+    alt: "FF7 Seventh Heaven Low Poly"
+    title: "FF7 Seventh Heaven Low Poly"
+    excerpt: "FF7 Seventh Heaven Low Poly"
+    url: "/illustration/seventh-heaven-iso"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/millennium-falcon/mf-cover.png
     alt: "Millennium Falcon Build"
     title: "Millennium Falcon Model Kit Build"

@@ -73,4 +73,9 @@ var store = [{
         "excerpt":"Not really an illustration. Bought a Millennium Falcon Model Kit over two years ago and I finally got around to building it!            Behind the scenes          ","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/millennium-falcon",
+        "teaser":null},{
+        "title": "Low Poly Isometric FF7 Seventh Heaven",
+        "excerpt":"Still on an FF7 Remake hangover, decided to practice 3D illustration by creating a low polygon isometric rendition of FF7’s Seventh Heaven.   Tifa’s Bar   Reference Link   Secret Basement    Reference Link   Combined    ","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/seventh-heaven-iso",
         "teaser":null}]

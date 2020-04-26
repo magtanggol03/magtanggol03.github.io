@@ -2,6 +2,13 @@
 title: "Animation Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/seventh-heaven-iso/animation-cover.gif
+    alt: "FF7 Seventh Heaven Low Poly"
+    title: "FF7 Seventh Heaven Low Poly"
+    excerpt: "Isometric and low polygon rendition of FF7's Seventh Heaven"
+    url: "/illustration/seventh-heaven-iso"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/cloud-low-poly/cloud-cover.gif
     alt: "Low Poly Cloud Animation"
     title: "Low Poly Cloud Animation"
