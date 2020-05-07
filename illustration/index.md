@@ -2,10 +2,17 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/aerith-house/cover.png
+    alt: "Low Poly Aerith House"
+    title: "Low Poly Aerith House"
+    excerpt: "Low polygon and isometric rendition of Aerith's House"
+    url: "/illustration/aerith-house-low-poly"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/seventh-heaven-iso/cover.png
     alt: "FF7 Seventh Heaven Low Poly"
     title: "FF7 Seventh Heaven Low Poly"
-    excerpt: "FF7 Seventh Heaven Low Poly"
+    excerpt: "Low polygon and isometric rendition opf FF7's Seventh Heaven"
     url: "/illustration/seventh-heaven-iso"
     btn_label: "Read More"
     btn_class: "btn--inverse"

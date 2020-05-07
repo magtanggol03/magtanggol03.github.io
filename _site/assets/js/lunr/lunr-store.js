@@ -75,7 +75,12 @@ var store = [{
         "url": "http://localhost:4000/illustration/millennium-falcon",
         "teaser":null},{
         "title": "Low Poly Isometric FF7 Seventh Heaven",
-        "excerpt":"Still on an FF7 Remake hangover, decided to practice 3D illustration by creating a low polygon isometric rendition of FF7’s Seventh Heaven.   Tifa’s Bar   Reference Link   Secret Basement    Reference Link   Combined    ","categories": ["illustration"],
+        "excerpt":"Still on an FF7 Remake hangover, decided to practice 3D illustration by creating a low polygon isometric rendition of FF7’s Seventh Heaven.   Tifa’s Bar   Reference Link   Secret Basement    Reference Link   Elevator GIF!    ","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/seventh-heaven-iso",
+        "teaser":null},{
+        "title": "Low Poly Aerith House",
+        "excerpt":"New isometric low polygon scene based on Aerith’s House from FF7!   Isometric View   Reference Link   Side View     Flowers    ","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/aerith-house-low-poly",
         "teaser":null}]
