@@ -37,18 +37,21 @@ html {
 
   // adjust font size for posts paragraphs
   .page__content p {
-  	font-size: 0.8em !important; 
+  	font-size: 14px !important; 
   	line-height: 1.2;
   	font-weight: 100;
     width: 100%;
   }
 
+  img{
+    margin-bottom: 8px;
+  }
   .main-logo{
     height: 200px !important
   }
 
   .page__content li {
-	 font-size: 0.8em !important;
+	 font-size: 14px !important;
   }
 
   // main landing page adjustments

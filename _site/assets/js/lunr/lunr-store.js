@@ -83,4 +83,9 @@ var store = [{
         "excerpt":"New isometric low polygon scene based on Aerith’s House from FF7!   Isometric View   Reference Link   Side View     Flowers    ","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/aerith-house-low-poly",
+        "teaser":null},{
+        "title": "Thinking Machines Isometric Office",
+        "excerpt":"Two years in Thinking Machines and spending missing the office. Decided to recreate the areas in the office I frequent the most in blender. Been two crazy years of growth, tears, frustration and laughter and looking forward to see what’s next! The Social Area / Noisy Work Area The warm...","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/office-iso",
         "teaser":null}]
