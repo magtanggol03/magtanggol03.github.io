@@ -2,6 +2,13 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/office-iso/cover.png
+    alt: "Thinking Machines Isometric Office"
+    title: "Thinking Machines Isometric Office"
+    excerpt: "Two year work anniversary project dedicated to the office"
+    url: "/illustration/office-iso"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/aerith-house/cover.png
     alt: "Low Poly Aerith House"
     title: "Low Poly Aerith House"

@@ -79,7 +79,7 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/illustration/seventh-heaven-iso",
         "teaser":null},{
-        "title": "Low Poly Aerith House",
+        "title": "Low Poly Aerith's House",
         "excerpt":"New isometric low polygon scene based on Aerith’s House from FF7!   Isometric View   Reference Link   Side View     Flowers    ","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/aerith-house-low-poly",
