@@ -9,10 +9,10 @@ categories: illustration
 permalink: /illustration/office-iso
 ---
 
-Two years in Thinking Machines and spending missing the office. 
-Decided to recreate the areas in the office I frequent the most in blender.
+Two years in Thinking Machines and spending it missing the office. 
+Decided to recreate in Blender the areas in the office I frequent the most.
 
-Been two crazy years of growth, tears, frustration and laughter and looking forward to see what's next!
+Been two crazy years of growth, tears, frustration and laughter and looking forward to what's next!
 
 ### The Social Area / Noisy Work Area
 ![Social Area](https://storage.googleapis.com/magtanggol-github-io/office-iso/social-area.png)
