@@ -29,3 +29,12 @@ Where I usually stay when I actually need to get work done. I've been lucky enou
 ### The Bowling Alley
 ![Bowling Alley](https://storage.googleapis.com/magtanggol-github-io/office-iso/bowling-alley.png)
 I'm not even sure how to explain this room... personally I stay here whenever I need a change in scenery/place.
+
+### Animations. Just because.
+![Social Area Animation](https://storage.googleapis.com/magtanggol-github-io/office-iso/social-anim.gif)
+
+Sunrise sunset. Look at the door!
+
+![Heads Down Animation](https://storage.googleapis.com/magtanggol-github-io/office-iso/heads-down-anim.gif)
+
+Bakit may mumu...
