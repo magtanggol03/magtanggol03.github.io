@@ -2,6 +2,13 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/daily-blends-january/cover.png
+    alt: "Daily Blends - January 2021"
+    title: "Daily Blends - January 2021"
+    excerpt: "Small blender work in an effort to improve my Blender skills"
+    url: "/illustration/daily-blends-january"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/office-iso/cover.png
     alt: "Thinking Machines Isometric Office"
     title: "Thinking Machines Isometric Office"
