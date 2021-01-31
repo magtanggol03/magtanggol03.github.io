@@ -9,6 +9,13 @@ feature_row:
     url: "/illustration/daily-blends-january"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/mando-helmets/cover.png
+    alt: "Mandalorian Helmets"
+    title: "Mandalorian Helmets"
+    excerpt: "Experimenting with rendering with textures using Mandalorian Helmets"
+    url: "/illustration/mando-helmets"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/office-iso/cover.png
     alt: "Thinking Machines Isometric Office"
     title: "Thinking Machines Isometric Office"
