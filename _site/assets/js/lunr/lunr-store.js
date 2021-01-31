@@ -88,4 +88,19 @@ var store = [{
         "excerpt":"Two years in Thinking Machines and spending it missing the office. Decided to recreate in Blender the areas in the office I frequent the most. Been two crazy years of growth, tears, frustration and laughter and looking forward to what’s next! The Social Area / Noisy Work Area The warm...","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/office-iso",
+        "teaser":null},{
+        "title": "Mandalorian Helmets",
+        "excerpt":"Trying to learn more about using image textures to give renders a more realistic feel. Instead of the traditional metal ball approach, wanted to try to do it on Mandalorian helmets! Din Djarin The Armorer Love the Darth Maul like horns coming out of the back of her helmet. Might...","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/mando-helmets",
+        "teaser":null},{
+        "title": "Daily Blends - January 2021",
+        "excerpt":"Trying to be a bit more consistent in practicing and doing more creative Blender work this year. Not sure if I can keep this up for the whole year, but big win to have done more this month than the whole of last year! 01/02 01/03 01/04 01/05 01/06 01/07...","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/daily-blends-january",
+        "teaser":null},{
+        "title": "Daily Blends - January 2021",
+        "excerpt":"Trying to be a bit more consistent in practicing and doing more creative Blender work this year. Not sure if I can keep this up for the whole year, but big win to have done more this month than the whole of last year! 01/02 01/03 01/04 01/05 01/06 01/07...","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/daily-blends-january",
         "teaser":null}]
