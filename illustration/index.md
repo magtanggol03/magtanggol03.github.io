@@ -2,6 +2,13 @@
 title: "Illustration Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/daily-blends-february/cover.png
+    alt: "Daily Blends - February 2021"
+    title: "Daily Blends - February 2021"
+    excerpt: "Not so much daily, but small, well-paced out work for the month of Feb"
+    url: "/illustration/daily-blends-february"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/daily-blends-january/cover.png
     alt: "Daily Blends - January 2021"
     title: "Daily Blends - January 2021"
