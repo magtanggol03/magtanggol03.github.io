@@ -1,17 +1,15 @@
 ---
 layout: single
-title:  "Diorama"
+title:  "DioRAMa"
 header:
   image: https://storage.googleapis.com/magtanggol-github-io/diorama/header.png
   og_image: https://storage.googleapis.com/magtanggol-github-io/diorama/cover.gif
-date:   2020-11-11 00:00:00 +0800
+date:   2021-03-11 00:00:00 +0800
 categories: animation
 permalink: /animation/dio-ram-a
 ---
 
-Was inspired to do a rotating diorama by Andreas Wannerstedt's Google CES Diorama, so decided to make it my birthday project. Was having a difficult time coming up with fixtures to put in, so I placed key buildings/objects inspired by key milestones in my 29 years of existence.
-
-I call it, the DioRAMa.
+Was inspired to do a rotating diorama by [Andreas Wannerstedt's Google CES Diorama](https://andreaswannerstedt.se/google-ces-diorama), so decided to make it my birthday project. Was having a difficult time coming up with fixtures to put in, so I placed key buildings/objects inspired by key milestones in my 29 years of existence.
 
 #### Warning -- rotation speed may cause headache if stared at for too long  
 
