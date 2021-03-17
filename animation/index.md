@@ -2,6 +2,13 @@
 title: "Animation Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/diorama/cover.gif
+    alt: "Diorama"
+    title: "Diorama"
+    excerpt: "Isometric diorama featuring key milestones in my 29 years of existence"
+    url: "/animation/dio-ram-a"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/seventh-heaven-iso/animation-cover.gif
     alt: "FF7 Seventh Heaven Low Poly"
     title: "FF7 Seventh Heaven Low Poly"
