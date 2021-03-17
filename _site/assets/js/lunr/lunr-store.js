@@ -89,11 +89,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/illustration/office-iso",
         "teaser":null},{
-        "title": "Diorama",
-        "excerpt":"Was inspired to do a rotating diorama by Andreas Wannerstedt’s Google CES Diorama, so decided to make it my birthday project. Was having a difficult time coming up with fixtures to put in, so I placed key buildings/objects inspired by key milestones in my 29 years of existence. I call...","categories": ["animation"],
-        "tags": [],
-        "url": "http://localhost:4000/animation/dio-ram-a",
-        "teaser":null},{
         "title": "Mandalorian Helmets",
         "excerpt":"Trying to learn more about using image textures to give renders a more realistic feel. Instead of the traditional metal ball approach, wanted to try to do it on Mandalorian helmets! Din Djarin The Armorer Love the Darth Maul like horns coming out of the back of her helmet. Might...","categories": ["illustration"],
         "tags": [],
@@ -108,4 +103,9 @@ var store = [{
         "excerpt":"Pace was much slower this month, but much more sustainable. Didn’t really pressure myself to post everyday but really focus on working on interesting concepts and experimenting with new techniques!   02/01     02/03     02/04     02/05     02/07     02/08     02/11     02/14     02/15     02/18      02/21     02/22     02/26     02/28     ","categories": ["illustration"],
         "tags": [],
         "url": "http://localhost:4000/illustration/daily-blends-february",
+        "teaser":null},{
+        "title": "DioRAMa",
+        "excerpt":"Was inspired to do a rotating diorama by Andreas Wannerstedt’s Google CES Diorama, so decided to make it my birthday project. Was having a difficult time coming up with fixtures to put in, so I placed key buildings/objects inspired by key milestones in my 29 years of existence. Warning –...","categories": ["animation"],
+        "tags": [],
+        "url": "http://localhost:4000/animation/dio-ram-a",
         "teaser":null}]
