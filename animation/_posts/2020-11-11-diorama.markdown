@@ -4,7 +4,7 @@ title:  "DioRAMa"
 header:
   image: https://storage.googleapis.com/magtanggol-github-io/diorama/header.png
   og_image: https://storage.googleapis.com/magtanggol-github-io/diorama/cover.gif
-date:   2021-03-11 00:00:00 +0800
+date:   2021-03-12 00:00:00 +0800
 categories: animation
 permalink: /animation/dio-ram-a
 ---
@@ -35,6 +35,8 @@ This is a model of the HKUST flame that is in the middle of the main building. I
 ![Office](https://storage.googleapis.com/magtanggol-github-io/diorama/twenty-four-seven.jpg)
 
 The building is the office that I used to spend majority of my time in and the globe represents more the geospatial work that I do. I miss the Dunkin Donuts where I would take a late lunch (Soup and Sandwich), and the office's anticipation of the opening of % Arabica that never happened.
+
+![Office](https://storage.googleapis.com/magtanggol-github-io/diorama/roulette.jpg)
 
 The roulette is for the time I spent in the family business. This is a part of my life where I learned how most to deal with being pushed beyond my own comfort zone, teaching me a lot about grinding not just for a day job but for something more meaningful. Added in a tree for my boss.  
 
