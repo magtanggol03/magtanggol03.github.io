@@ -2,6 +2,13 @@
 title: "Animation Projects"
 layout: splash
 feature_row:
+  - image_path: https://storage.googleapis.com/magtanggol-github-io/daily-blends-march/cover.gif
+    alt: "Daily Blends - March 2021"
+    title: "Daily Blends - March 2021"
+    excerpt: "Officially one year of using Blender and working with 3D art!"
+    url: "/illustration/daily-blends-march"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: https://storage.googleapis.com/magtanggol-github-io/diorama/cover.gif
     alt: "Diorama"
     title: "Diorama"

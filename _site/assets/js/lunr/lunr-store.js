@@ -108,4 +108,9 @@ var store = [{
         "excerpt":"Was inspired to do a rotating diorama by Andreas Wannerstedt’s Google CES Diorama, so decided to make it my birthday project. Was having a difficult time coming up with fixtures to put in, so I placed key buildings/objects inspired by key milestones in my 29 years of existence. Warning –...","categories": ["animation"],
         "tags": [],
         "url": "http://localhost:4000/animation/dio-ram-a",
+        "teaser":null},{
+        "title": "Daily Blends - March 2021",
+        "excerpt":"Birthday month and the month that marks that I’ve officially been workin on 3D art for a year! Was a very interesting month, figuring out a lot of workflows around maps and animations – and finally upgraded my GPU hence more animations! 03/02 03/06 03/08 03/16 03/17 03/21 03/22 03/23...","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/daily-blends-march",
         "teaser":null}]
