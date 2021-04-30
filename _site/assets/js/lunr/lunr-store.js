@@ -109,6 +109,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/animation/dio-ram-a",
         "teaser":null},{
+        "title": "Daily Blends - April 2021",
+        "excerpt":"Another month down! More moving maps, work setup and games!   04/05     04/06     04/07     04/09     04/10     04/11           04/12           04/15    04/18     04/19       04/21     04/24     04/25     04/26    04/27     04/28   ","categories": ["illustration"],
+        "tags": [],
+        "url": "http://localhost:4000/illustration/daily-blends-april",
+        "teaser":null},{
         "title": "Daily Blends - March 2021",
         "excerpt":"Birthday month and the month that marks that I’ve officially been workin on 3D art for a year! Was a very interesting month, figuring out a lot of workflows around maps and animations – and finally upgraded my GPU hence more animations! 03/02 03/06 03/08 03/16 03/17 03/21 03/22 03/23...","categories": ["illustration"],
         "tags": [],
