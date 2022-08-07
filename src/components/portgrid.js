@@ -203,6 +203,7 @@ const Highlight = ({handleClick, inputStyle, clicked}) => {
   const inStyle = {
     transform: clicked ? "translate(0, 0%)" : "translate(0px, 20vh)",
     transition: "0.8s cubic-bezier(0.02,0.63,0.36,1)",
+    zIndex: 100
   }
 
   const finScale = width > 500 ? 1: 0.5
@@ -221,8 +222,8 @@ const Highlight = ({handleClick, inputStyle, clicked}) => {
   });
 
   return (
-    <div className="highlight-bg" style={inputStyle} onClick={click} >
-      <div className="highlight" style={{background:'#fff9f2'}} {...handlers}> 
+    <div className="highlight-bg" style={inputStyle} >
+      <div className="highlight" style={{background:'#fff9f2', zIndex: 100}} {...handlers}> 
         <FiX onClick={click} className='exit-button' />
         {clicked && displayItems[displayed]}
         <div className='mini-nav'>
@@ -235,6 +236,7 @@ const Highlight = ({handleClick, inputStyle, clicked}) => {
       </div>
       {displayed < items.length-1 && <MdOutlineKeyboardArrowRight className='arrow-button' onClick={incrementClicked} style={{right: '1vw'}} />}
       {displayed > 0 && <MdOutlineKeyboardArrowLeft className='arrow-button'  onClick={decrementClicked} style={{left: '1vw'}} />}
+      <div className="highlight-bg" onClick={click} style={{zIndex: 0}}/>
     </div>
   )
 }
