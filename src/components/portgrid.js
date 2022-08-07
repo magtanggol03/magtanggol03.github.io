@@ -8,6 +8,7 @@ import { state } from '../utils'
 import { Link } from "react-router-dom";
 import { LazyLoadComponent } from 'react-lazy-load-image-component';
 import PropagateLoader from "react-spinners/PropagateLoader";
+import { useSwipeable } from 'react-swipeable';
 
 
 
@@ -210,9 +211,18 @@ const Highlight = ({handleClick, inputStyle, clicked}) => {
       <File url={items[i]} scale={finScale} key={i} />
     )
   })
+
+  const handlers = useSwipeable({
+    onSwipedLeft: () => incrementClicked(),
+    onSwipedRight: () => decrementClicked(),
+    swipeDuration: 500,
+    preventScrollOnSwipe: true,
+    trackMouse: true
+  });
+
   return (
-    <div className="highlight-bg" style={inputStyle} >
-      <div className="highlight" style={{background:'#fff9f2'}}> 
+    <div className="highlight-bg" style={inputStyle} onClick={click} >
+      <div className="highlight" style={{background:'#fff9f2'}} {...handlers}> 
         <FiX onClick={click} className='exit-button' />
         {clicked && displayItems[displayed]}
         <div className='mini-nav'>

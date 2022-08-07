@@ -177,6 +177,8 @@ export default function Content({colors, getBreak, size, ...props}) {
         <a href='https://threejs-journey.com/#'>Bruno Simon [ThreeJS]</a>
         <br/>
         <a href='https://github.com/pmndrs'>Poimandres [R3F]</a>
+        <br/>
+        <a href='https://marksteve.com/'>Mark Steve [ALL]</a>
         </span>
         
       </div>
