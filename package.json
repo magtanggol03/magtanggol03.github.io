@@ -1,20 +1,71 @@
 {
-  "name": "magtanggol03.github.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "threejs-portfolio",
+  "version": "0.1.0",
+  "homepage": "https://magtanggol03.github.io",
+  "private": true,
+  "dependencies": {
+    "@react-spring/three": "^9.4.5",
+    "@react-three/drei": "^9.8.1",
+    "@react-three/fiber": "^8.0.15",
+    "@react-three/postprocessing": "^2.4.6",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "fs": "^0.0.1-security",
+    "gh-pages": "^4.0.0",
+    "glob": "^8.0.3",
+    "install": "^0.13.0",
+    "lerp": "^1.0.3",
+    "lerp-array": "^1.1.1",
+    "list-react-files": "^0.2.0",
+    "npm": "^8.13.2",
+    "postprocessing": "^6.27.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-grid-layout": "^1.3.4",
+    "react-icons": "^4.4.0",
+    "react-intersection-observer": "^9.1.0",
+    "react-lazy-load-image-component": "^1.5.5",
+    "react-postprocessing": "^1.4.0",
+    "react-router-dom": "6",
+    "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.4",
+    "react-spring": "^9.4.5",
+    "react-transition-group": "^4.4.2",
+    "react-use-refs": "^1.0.1",
+    "sass": "^1.51.0",
+    "scss": "^0.2.4",
+    "source-map-explorer": "^2.5.2",
+    "three": "^0.140.2",
+    "three-stdlib": "^2.12.1",
+    "valtio": "^1.6.1",
+    "web-vitals": "^2.1.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "analyze": "source-map-explorer 'build/static/js/*.js'"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/magtanggol03/magtanggol03.github.io.git"
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/magtanggol03/magtanggol03.github.io/issues"
-  },
-  "homepage": "https://github.com/magtanggol03/magtanggol03.github.io#readme"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
