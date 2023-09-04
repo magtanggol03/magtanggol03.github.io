@@ -14,13 +14,11 @@ import Dancing from "./components/models/dancing"
 
 // R3F
 import { Canvas } from "@react-three/fiber";
-import { ScrollControls, Environment, Loader} from "@react-three/drei";
-
+import { ScrollControls, Loader} from "@react-three/drei";
+import { suspend } from 'suspend-react';
 
 import { Link } from "react-router-dom";
-
 import { EffectComposer,  Noise, SMAA } from '@react-three/postprocessing'
-
 
 const useWindowSize = () => {
   const [size, setSize] = useState([0, 0]);
@@ -38,7 +36,7 @@ const useWindowSize = () => {
 const Lights = () => {
   return (
     <>
-      <ambientLight intensity={0.1} />
+      <ambientLight intensity={0.5} />
       <directionalLight position={[10, 10, 5]} intensity={1}  />
       <directionalLight
         position={[-1, 10, -1]}
@@ -148,7 +146,7 @@ export default function App() {
         <EffectComposer>
           <Post />
           <Lights />
-          <Environment preset="warehouse"/>
+         
           <ScrollControls pages={6} damping={2}>
               <Base colors={sectionColor} getBreak={getBreak} />  
               <AboutMe size={size}/>

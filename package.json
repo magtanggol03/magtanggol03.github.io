@@ -4,6 +4,7 @@
   "homepage": "https://magtanggol03.github.io",
   "private": true,
   "dependencies": {
+    "@pmndrs/assets": "^1.6.0",
     "@react-spring/three": "^9.4.5",
     "@react-three/drei": "^9.8.1",
     "@react-three/fiber": "^8.0.15",
