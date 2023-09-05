@@ -57,7 +57,7 @@ export const state = proxy({
             '07-hk-noods.jpg',
             '09-green-tea.jpg'
         ],
-        title: 'Conbini Army',
+        title: 'Konbini Army',
         description: 'A bunch of prints I made for a postcard set based on convenience store items!',
         scale: [0.8, 1],
         scaleMobile: 0.1

@@ -48,7 +48,7 @@ export default function Content({colors, getBreak, size, ...props}) {
         'scale': [0.13, 0.25, 0.13, 0.21, 0.5, 0.5]
         },
       's':{
-        'position': [[1.5, 4, -4], [-1.5, 6.1, -4.45], [-3.5, 3.5, 1.8], [-3.76, 3.98, -1.3], [-4.5, 10, -4.5], [5.5, 1.8, 0.7]],
+        'position': [[1.5, 4, -4], [-1.5, 6.1, -4.45], [-3.5, 3.5, 1.8], [-3.76, 3.7, -1.2], [-4.5, 10, -4.5], [5.5, 1.8, 0.7]],
         'divStyle': [
           { textAlign: 'left'},
           { textAlign: 'left'},
@@ -157,7 +157,7 @@ export default function Content({colors, getBreak, size, ...props}) {
     ref={refThree}>
       <div className='section' style={params[size].divStyle[2]}>
         <span style={{marginBottom: size === 's' || size === 'xs'  ? "2rem" : "2rem"}}>From there,<br/>it was a rabbit hole down the </span>
-        <h1 style={{marginBottom: size === 's' || size === 'xs' ? "1.5rem" : "2rem", lineHeight: size === 's' || size === 'xs' ? "3rem" :'4rem'}}> 
+        <h1 style={{marginBottom: size === 's' || size === 'xs' ? "1rem" : "0.5rem", lineHeight: size === 's' || size === 'xs' ? "3rem" :'4rem'}}> 
         3D Tech<br/>Space!</h1>
         <span style={{marginBottom: "20px"}}>
           I loved learning all about<br/><strong>modelling software, photoscanning,<br/>motion capture, AI assisted VFX,<br/>game engines, printing hardware</strong><br/>and everything in between!

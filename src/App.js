@@ -15,7 +15,6 @@ import Dancing from "./components/models/dancing"
 // R3F
 import { Canvas } from "@react-three/fiber";
 import { ScrollControls, Loader} from "@react-three/drei";
-import { suspend } from 'suspend-react';
 
 import { Link } from "react-router-dom";
 import { EffectComposer,  Noise, SMAA } from '@react-three/postprocessing'
